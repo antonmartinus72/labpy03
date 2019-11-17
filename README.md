@@ -61,7 +61,8 @@ Hasil akhir dengan input terbesar akan dicetak seperti ini :
     print("Bilangan terbesar adalah: ", terbesar)
     
 **Output :**
-   ![Lat_2_Output](https://github.com/antonmartinus72/labpy03/blob/master/img/Lat_2_Output.PNG)
+
+![Lat_2_Output](https://github.com/antonmartinus72/labpy03/blob/master/img/Lat_2_Output.PNG)
     
 ## 3. Buat program sederhana dengan perulangan. 
 <p align=center>"Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan modal awal 100 juta, pada bulan pertama dan kedua belum mendapatkan laba. pada bulan ketiga baru mulai mendapatkan laba sebesar 1% dan pada bulan ke 5, pendapatan meningkat 5%, selanjutnya pada bulan ke 8 mengalami penurunan keuntungan sebesar 2%, sehingga laba menjadi 3%. Hitung total keuntungan selama 8 bulan berjalan usahanya."<p>
@@ -95,6 +96,7 @@ Total **keuntungan** didapatkan dengan cara menambahkan setiap keuntungan yang t
     keuntungan = keuntungan + laba
 
 **Output :**
+
 ![Pro_1_Output](https://github.com/antonmartinus72/labpy03/blob/master/img/Pro_1_Output.PNG)
 
 <p align=center>
