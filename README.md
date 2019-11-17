@@ -10,7 +10,7 @@
 
 Kode berikut digunakan untuk melakukan **input** data berupa tipe data integer :
 
-    **`n = int(input("Masukan nilai N: "))`**
+    n = int(input("Masukan nilai N: "))
  
 Selanjutnya fungsi `for` loop digunakan untuk melakukan perulangan berdasarkan input `n`:
 
