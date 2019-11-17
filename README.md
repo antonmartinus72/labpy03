@@ -2,7 +2,7 @@
 ## 1. Tampilkan nilai n bilangan acak yang lebih kecil dari 0.5
 **Kode :**
 
-![Lat_1](1_Lat_1)
+![Lat_1](https://github.com/antonmartinus72/labpy03/blob/master/img/Lat_1.PNG)
 
 ***
 
@@ -26,13 +26,13 @@ Fungsi `for` loop akan terus mencetak baris baru sesuai nilai yang di masukan ke
 
 **Output :**
 
-![Lat_1_Output](1_Lat_1_Output)
+![Lat_1_Output](https://github.com/antonmartinus72/labpy03/blob/master/img/Lat_1_Output.PNG)
 
 ## 2. Buat program untuk menampilkan bilangan terbesar dari n buah data yang diinputkan. Masukkan angka 0 untuk berhenti.
 
 **Kode :**
 
-![Lat_2](3_Lat_2)
+![Lat_2](https://github.com/antonmartinus72/labpy03/blob/master/img/Lat_2.PNG)
 
 ***Algoritma***
 
@@ -60,12 +60,15 @@ Hasil akhir dengan input terbesar akan dicetak seperti ini :
 
     print("Bilangan terbesar adalah: ", terbesar)
     
+**Output :**
+   ![Lat_2_Output](https://github.com/antonmartinus72/labpy03/blob/master/img/Lat_2_Output.PNG)
+    
 ## 3. Buat program sederhana dengan perulangan. 
 <p align=center>"Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan modal awal 100 juta, pada bulan pertama dan kedua belum mendapatkan laba. pada bulan ketiga baru mulai mendapatkan laba sebesar 1% dan pada bulan ke 5, pendapatan meningkat 5%, selanjutnya pada bulan ke 8 mengalami penurunan keuntungan sebesar 2%, sehingga laba menjadi 3%. Hitung total keuntungan selama 8 bulan berjalan usahanya."<p>
 
 **Kode :**
 
-![Pro_1](5_Pro_1)
+![Pro_1](https://github.com/antonmartinus72/labpy03/blob/master/img/Pro_1.png)
 
 ***Algoritma***
 Kode berikut berfungsi sebagai perulangan dan digunakan untuk mencetak berapa baris yang akan di cetak yang mewakili jumlah bulan.
@@ -92,7 +95,7 @@ Total **keuntungan** didapatkan dengan cara menambahkan setiap keuntungan yang t
     keuntungan = keuntungan + laba
 
 **Output :**
-![Pro_1_Output](6_Pro_1_Output)
+![Pro_1_Output](https://github.com/antonmartinus72/labpy03/blob/master/img/Pro_1_Output.PNG)
 
 <p align=center>
 Anton Martinus A.A.Y
