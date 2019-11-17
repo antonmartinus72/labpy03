@@ -93,3 +93,10 @@ Total **keuntungan** didapatkan dengan cara menambahkan setiap keuntungan yang t
 
 **Output :**
 ![Pro_1_Output](6_Pro_1_Output)
+
+<p align=center>
+Anton Martinus A.A.Y
+<br>
+TI.19.A.1
+<br>
+https://github.com/antonmartinus72/labpy03
